@@ -2,11 +2,11 @@
 <br>
 <br>
 <div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongWooDo&count_bg=%233609E3&title_bg=%23DF1E1E&icon=&icon_color=%23F10606&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdngwoodo&count_bg=%233609E3&title_bg=%23DF1E1E&icon=&icon_color=%23F10606&title=hits&edge_flat=false"/></a>
 </div>
 <br>
 <div align="center">
-<strong>Welcome to DongwooDo Github!</strong> 🇰🇷
+<strong>Welcome to dngwoodo Github!</strong> 🇰🇷
 <br>
 <br>
 좋은 개발자가 되기 위해 노력하는 웹 프론트 개발자입니다
@@ -30,12 +30,12 @@
 <div align="center">
 <strong>Contacts</strong> 📞
 <br>
-<a href="mailto:dongwoodo@gmail.com">
+<a href="mailto:dngwoodo@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white">
 </a>
 </div>
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DongwooDo&show_icons=true&theme=highcontrast">
+<img src="https://github-readme-stats.vercel.app/api?username=dngwoodo&show_icons=true&theme=highcontrast">
 </div>
