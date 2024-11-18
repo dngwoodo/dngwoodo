@@ -27,10 +27,6 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
 </div>
 <br>
-<div align="center">
-<strong>Contacts</strong> 📞
-<br>
-<a href="mailto:dngwoodo@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white">
 </a>
 </div>
