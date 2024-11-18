@@ -1,3 +1,6 @@
+<div align="center">
+<a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/dngwoodo" width="600" height="300" /> </a>
+</div>
 <img src="https://capsule-render.vercel.app/api?type=Egg&color=timeAuto&section=header&text=new Dongwoo();&animation=scaleIn&fontColor=d6ace6&fontSize=60" />
 <br>
 <br>
